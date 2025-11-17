@@ -1,0 +1,10 @@
+flask
+flask-cors
+pandas
+numpy
+torch
+scikit-learn
+matplotlib
+python-dotenv
+convex
+git+https://github.com/amazon-science/chronos-forecasting.git
